@@ -1,5 +1,6 @@
 # Mars Colony Design 🚀🪐
 
+
 ## Introduction 🌌
 
 Welcome to Mars Colony Design, a groundbreaking project aimed at revolutionizing the way we approach the design and establishment of colonies on Mars. Leveraging advanced image processing techniques and scientific analysis, Mars Colony Design allows users to analyze Martian surface data, detect rivers, strategically place colonies near rivers, and optimize colony placement for resource utilization. The project's main script, `Mars Colony Design.py`, orchestrates the entire process, from initial data analysis to colony growth simulation and placement optimization. By simulating various environmental factors such as radiation levels, power distribution, and water availability, the code provides users with invaluable insights for designing sustainable and resilient colonies on the Red Planet. Whether you're a space enthusiast, a scientist, or a futurist, Mars Colony Design offers a glimpse into the future of human habitation beyond Earth's atmosphere.
